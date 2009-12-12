@@ -22,6 +22,7 @@ get '/' do
     Dude... AWESOME!
     :)!!!!!!
     You killed a cop, monica! you killed a cop
+    OMG OMG OMG!
     "
 end
 
