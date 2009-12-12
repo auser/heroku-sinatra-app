@@ -21,6 +21,7 @@ get '/' do
   "Congradulations!
     Dude... AWESOME!
     :)!!!!!!
+    You killed a cop, monica! you killed a cop
     "
 end
 
