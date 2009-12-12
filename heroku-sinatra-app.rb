@@ -24,7 +24,7 @@ get '/' do
       <title>Please</title>
     </head>
     <body>
-      <h3>Hi</h3>
+      <h1>Hi</h1>
       <p>Now it's time to update the application!</p>
       <h4>:)</h4>
       <div class="what">WHAT?</div>
