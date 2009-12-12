@@ -26,6 +26,7 @@ get '/' do
     <body>
       <h3>Hi</h3>
       <p>Now it's time to update the application!</p>
+      <h4>:)</h4>
     </body>
     </html>
   EOE
