@@ -27,7 +27,7 @@ get '/' do
       <h3>Hi</h3>
       <p>Now it's time to update the application!</p>
     </body>
-    </html>"
+    </html>
   EOE
 end
 
