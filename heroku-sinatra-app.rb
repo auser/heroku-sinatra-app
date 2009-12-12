@@ -25,7 +25,7 @@ get '/' do
     </head>
     <body>
       <h1>Hi</h1>
-      <h2>What else</h2>
+      <h2>What else</h2>hm
       <p>Now it's time to update the application!</p>
       <h4>:)</h4>
       <div class="what">WHAT?</div>
