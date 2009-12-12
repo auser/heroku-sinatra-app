@@ -18,13 +18,7 @@ end
 
 # Quick test
 get '/' do
-  "Congradulations!
-    Dude... AWESOME!
-    :)!!!!!!
-    You killed a cop, monica! you killed a cop
-    OMG OMG OMG!
-    More law and order please!
-    "
+  "<html><head><title>Please</title></head><body><h3>Hi</h3></body></html>"
 end
 
 # Test at <appname>.heroku.com
