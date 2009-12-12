@@ -18,7 +18,17 @@ end
 
 # Quick test
 get '/' do
-  "<html><head><title>Please</title></head><body><h3>Hi</h3></body></html>"
+  <<-EOE
+  <html>
+    <head>
+      <title>Please</title>
+    </head>
+    <body>
+      <h3>Hi</h3>
+      <p>Now it's time to update the application!</p>
+    </body>
+    </html>"
+  EOE
 end
 
 # Test at <appname>.heroku.com
