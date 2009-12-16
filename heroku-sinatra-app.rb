@@ -25,8 +25,7 @@ get '/' do
     </head>
     <body>
       <h1>Hi</h1>
-      <h2>What else</h2>hm
-      <p>Now it's time to update the application!</p>
+      <h2>You were?!?!?</h2>
       <pre><code>
       f().
       App = apps:find_by_name("quick-balloon-08slv").
