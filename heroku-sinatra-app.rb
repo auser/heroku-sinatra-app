@@ -27,9 +27,13 @@ get '/' do
       <h1>Hi</h1>
       <h2>What else</h2>hm
       <p>Now it's time to update the application!</p>
-      <h4>:)</h4>
-      <div class="what">WHAT?</div>
-      <div class='meaningless'>Another meaningless change</div>
+      <pre><code>
+      f().
+      App = apps:find_by_name("quick-balloon-08slv").
+      {ok, P} = app_updater_fsm:start_link(App).
+      app_updater_fsm:go(P, self()).
+      receive X -> X after 300 -> ok end.
+      </code></pre>
     </body>
     </html>
   EOE
