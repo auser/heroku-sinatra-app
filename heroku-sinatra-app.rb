@@ -29,6 +29,7 @@ get '/' do
       <p>Now it's time to update the application!</p>
       <h4>:)</h4>
       <div class="what">WHAT?</div>
+      <div class='meaningless'>Another meaningless change</div>
     </body>
     </html>
   EOE
