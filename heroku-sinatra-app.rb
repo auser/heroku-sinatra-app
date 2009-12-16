@@ -21,7 +21,7 @@ get '/' do
   <<-EOE
   <html>
     <head>
-      <title>Please</title>
+      <title>Honey, Please</title>
     </head>
     <body>
       <h1>Hi</h1>
