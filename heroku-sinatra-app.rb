@@ -26,6 +26,7 @@ get '/' do
     <body>
       <h1>Hi</h1>
       <p>This is so much fun!</p>
+      <h3>I'm tired</h3>'
     </body>
     </html>
   EOE
