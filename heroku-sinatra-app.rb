@@ -33,6 +33,8 @@ get '/' do
           background: #FFF;
           border: 5px solid #000;
           color: #333;
+          padding: 30px;
+          margin: 4px;
         }
       </style>
     </head>
