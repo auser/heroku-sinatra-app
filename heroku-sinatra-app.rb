@@ -28,9 +28,11 @@ get '/' do
           color: #fff
         }
         #content {
-          width: 0 auto;
-          background: #FFF
-          color: #333
+          margin: 30px auto;
+          width: 900px;
+          background: #FFF;
+          border: 5px solid #000;
+          color: #333;
         }
       </style>
     </head>
