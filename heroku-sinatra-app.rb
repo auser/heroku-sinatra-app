@@ -24,7 +24,7 @@ get '/' do
       <title>Testing</title>
     </head>
     <body>
-      <h1>More tsting</h1>
+      <h1>More testing</h1>
     </body>
     </html>
   EOE
