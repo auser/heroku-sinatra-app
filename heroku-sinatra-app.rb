@@ -27,10 +27,17 @@ get '/' do
           background: #333;
           color: #fff
         }
+        #content {
+          width: 0 auto;
+          background: #FFF
+          color: #333
+        }
       </style>
     </head>
     <body>
-      <h1>More testing</h1>
+      <div id="content">
+        <h1>More testing</h1>
+      </div>
     </body>
     </html>
   EOE
