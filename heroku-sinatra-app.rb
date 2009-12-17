@@ -25,6 +25,9 @@ get '/' do
     </head>
     <body>
       <h1>More testing</h1>
+      <p>
+      NICE!
+      </p>
     </body>
     </html>
   EOE
