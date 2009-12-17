@@ -25,13 +25,7 @@ get '/' do
     </head>
     <body>
       <h1>Hi</h1>
-      <pre><code>
-      f().
-      App = apps:find_by_name("quick-balloon-08slv").
-      {ok, P} = app_updater_fsm:start_link(App).
-      app_updater_fsm:go(P, self()).
-      receive X -> X after 300 -> ok end.
-      </code></pre>
+      <p>This is so much fun!</p>
     </body>
     </html>
   EOE
