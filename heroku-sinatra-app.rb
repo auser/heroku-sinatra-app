@@ -21,13 +21,10 @@ get '/' do
   <<-EOE
   <html>
     <head>
-      <title>Honey, Please</title>
+      <title>Testing</title>
     </head>
     <body>
-      <h1>Hi</h1>
-      <p>This is so much fun!</p>
-      <h5>I'm tired</h5>
-      OMG, please!
+      <h1>More tsting</h1>
     </body>
     </html>
   EOE
