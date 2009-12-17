@@ -22,12 +22,15 @@ get '/' do
   <html>
     <head>
       <title>Testing</title>
+      <style type="text/css">
+        body {
+          background: #333;
+          color: #fff
+        }
+      </style>
     </head>
     <body>
       <h1>More testing</h1>
-      <p>
-      NICE!
-      </p>
     </body>
     </html>
   EOE
