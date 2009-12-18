@@ -40,6 +40,7 @@ get '/' do
     <body>
       <div id="content">
         <h1>More testing</h1>
+        <h2>More changes</h2>
       </div>
     </body>
     </html>
