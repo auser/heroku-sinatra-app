@@ -37,6 +37,7 @@ get '/' do
         }
         #footer {
           border-top: 1px solid #333;
+          background: #eee;
         }
       </style>
     </head>
