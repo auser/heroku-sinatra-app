@@ -39,13 +39,8 @@ get '/' do
     </head>
     <body>
       <div id="content">
-        <h1>More testing</h1>
-        <h2>More changes</h2>
-        <h3>And even more</h3>
-        <h4>And yet more... </h4>
-        <h5>even more...</h5>
-        <p>hi</p>
-        <small>Hm?</small>
+        <h1>Sweet sweet bash content</h1>
+        <p>Man, bash is super powerful</p>
       </div>
     </body>
     </html>
