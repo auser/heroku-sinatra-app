@@ -39,6 +39,7 @@ get '/' do
           border-top: 1px solid #333;
           background: #eee;
           border-left: 1px solid #333;
+          border-right: 1px solid #333;
         }
       </style>
     </head>
