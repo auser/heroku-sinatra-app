@@ -35,6 +35,9 @@ get '/' do
           color: #333;
           padding: 30px;
         }
+        #footer {
+          border-top: 1px solid #333;
+        }
       </style>
     </head>
     <body>
