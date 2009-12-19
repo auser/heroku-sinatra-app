@@ -40,6 +40,8 @@ get '/' do
           background: #eee;
           border-left: 1px solid #333;
           border-right: 1px solid #333;
+          border-bottom: 1px solid #333;
+          padding: 5px;
         }
       </style>
     </head>
