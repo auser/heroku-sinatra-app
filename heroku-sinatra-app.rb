@@ -49,7 +49,7 @@ get '/' do
       <div id="content">
         <h1>Sweet sweet bash content</h1>
         <p>Man, bash is super powerful</p>
-        <h4>Oh shoot, this reminds me</h4> 
+        <h4>Oh shoot, this reminds me</h4>
         <div id="footer">Footer</div>
       </div>
     </body>
