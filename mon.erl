@@ -24,3 +24,4 @@ loop() ->
     after 30000 ->
       exit(norma)
   end.
+  
