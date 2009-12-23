@@ -35,6 +35,9 @@ get '/' do
           color: #333;
           padding: 30px;
         }
+        #body {
+          padding: 10px;
+        }
         #footer {
           border-top: 1px solid #333;
           background: #eee;
@@ -51,7 +54,7 @@ get '/' do
         <hr />
         <div id="body">
           This is a BODY!
-          
+          <br />
           <small>crossing fingers</small>
         </div>
         <div id="footer">Footer</div>
