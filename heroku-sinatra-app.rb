@@ -37,6 +37,7 @@ get '/' do
         }
         #body {
           padding: 10px;
+          margin: 10px 0;
           border-top: 1px solid #333;
           border-bottom: 1px solid #333;
         }
