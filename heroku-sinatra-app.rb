@@ -47,7 +47,7 @@ get '/' do
     </head>
     <body>
       <div id="content">
-        <h1>Sweet sweet bash content</h1>
+        <h1>Sweet sweet bash content</h1> 
         <div id="footer">Footer</div>
       </div>
     </body>
