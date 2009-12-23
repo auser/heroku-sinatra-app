@@ -51,6 +51,9 @@ get '/' do
         <p>Man, bash is super powerful</p>
         <h4>Oh shoot, this reminds me</h4>
         <h1>I need to do the <a href="http://git-scm.com/">GIT</a> stuff</h1>
+        <pre><code>
+          curl -XPOST -d"{}" http://getbeehive.com:8080/apps/quick-balloon-08slv/deploy
+        </code></pre>
         <div id="footer">Footer</div>
       </div>
     </body>
