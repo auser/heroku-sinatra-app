@@ -57,6 +57,7 @@ get '/' do
           <br />
           <small>crossing fingers</small>
         </div>
+        <hr />
         <div id="footer">Footer</div>
       </div>
     </body>
