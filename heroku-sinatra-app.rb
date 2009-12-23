@@ -50,6 +50,9 @@ get '/' do
         <h1>Test website</h1>
         <hr />
         <div id="body">
+          This is a BODY!
+          
+          <small>crossing fingers</small>
         </div>
         <div id="footer">Footer</div>
       </div>
