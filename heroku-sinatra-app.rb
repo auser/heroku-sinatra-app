@@ -56,8 +56,6 @@ get '/' do
         <h1>Test website</h1>
         <div id="body">
           This is a BODY!
-          <br />
-          <small>crossing fingers</small>
         </div>
         <div id="footer">Footer</div>
       </div>
