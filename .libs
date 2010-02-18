@@ -1,2 +1,3 @@
 openssl.so
 libcrypto.so.0.9.8
+libssl.so.0.9.8
